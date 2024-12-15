@@ -16,7 +16,7 @@ To use the processor simulator, you can write a Java program that creates an ins
 
 ### Example:
 
-```
+```java
 public class Main {
     public static void main(String[] args) {
         Processor processor = new Processor();
@@ -77,7 +77,7 @@ To run the tests, use a testing framework like JUnit.
 
 Example:
 
-```
+```java
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
